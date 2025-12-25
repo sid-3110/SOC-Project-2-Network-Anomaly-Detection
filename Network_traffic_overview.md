@@ -1,4 +1,4 @@
-## Network Traffic Overview (Beginner SOC Perspective)
+## Network Traffic Overview 
 
 Network traffic refers to the communication between computers, servers,
 and applications over a network.
